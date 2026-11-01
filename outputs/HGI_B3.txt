@@ -1,0 +1,10 @@
+Player: HGI_B3
+SCSA Name: TwoColor
+Game: 6 Pegs 4 Colors
+Rounds: 100 out of 100
+Results: {Wins: 100, Losses: 0, Failures: 0, Score: 3913.0342342207023}
+Player: HGI_B3
+SCSA Name: FirstLast
+Game: 6 Pegs 4 Colors
+Rounds: 100 out of 100
+Results: {Wins: 91, Losses: 9, Failures: 0, Score: 2622.7287981953104}
